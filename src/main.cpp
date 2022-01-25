@@ -1,3 +1,7 @@
+/* Seed Growing Device Project
+ * - an smart irrigation system that grows seed and or small plants.
+ */ 
+
 //Libraries & Dependencies
 #include <Arduino.h>
 #include <Servo.h>
